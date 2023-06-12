@@ -1,0 +1,31 @@
+¿Que es un usuario root en Linux?
+Es el usuario que tiene acceso administrativo al sistema, este tiene acceso a todos 
+los ficheros y comandos del sistema
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Al no permitir el uso de contraseñas directas, Ubuntu Server promueve prácticas de 
+autenticación más seguras y robustas.
+
+¿Cuáles son los procesos típicos de Linux? 
+-init/systemd
+-bash/shell
+-Xorg/Wayland
+-Gestor de ventanas o entorno de escritorio (por ejemplo, gnome-shell, kwin, xfwm4)
+-Servicios del sistema (NetworkManager, CUPS, Apache, MySQL, etc.)
+-cron
+-sshd (servidor SSH)
+-dbus-daemon (bus de mensajes)
+-udevd (administrador de dispositivos)
+-acpid (administrador de energía y eventos ACPI)
+
+¿Cómo identificarlos?
+-Comando ps: El comando ps muestra información sobre los procesos en ejecución.
+-Comando top: El comando top muestra una lista dinámica y en tiempo real de los 
+procesos en ejecución, ordenados por el uso de CPU
+-Comando htop: Similar a top, htop es otra herramienta de monitoreo de procesos en 
+tiempo real.
+-Gestor de tareas del entorno de escritorio: Muchos entornos de escritorio, como 
+GNOME o KDE, ofrecen herramientas gráficas para ver y administrar los procesos en 
+ejecución. 
+-Herramientas de monitorización del sistema: Existen herramientas de monitorización 
+del sistema, como Glances o Monitor del sistema en GNOME
