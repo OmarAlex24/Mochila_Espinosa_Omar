@@ -1,0 +1,9 @@
+Ip privada:
+192.168.64.8
+Ip publica:
+186.96.23.105
+MAC:
+4a:6a:8f:15:27:5d
+
+Si, la ip publica del host es igual al vm pero la privada no
+ 
